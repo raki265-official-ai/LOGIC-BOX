@@ -1,4 +1,4 @@
-# LOGIC-BOX
+# LOGIC-BOX📦
 # description
 -This project is a python based structure to perform two main tasks
 
@@ -22,23 +22,27 @@ this project is practice designs python concepts
 with help of jupyter notebok and run the code
 run the program
 menu opions:
-    °1=generate pattern
-    °2=analyze numbers
-    °3=exit
+
+    1=generate pattern
+    
+    2=analyze numbers
+    
+    3=exit
+    
 # 📍features
-°generate star pattern using loops
+• Generate star pattern using loops
 
-°Analyze a range of numbers
+• Analyze a range of numbers
 
-°Check whether numbers are odd or even
+• Check whether numbers are odd or even
 
-°calculate sum of numbers in a range
+• calculate sum of numbers in a range
 
-°Input validation for incorrect values
+• Input validation for incorrect values
 
-°Menu-driven interface
+• Menu-driven interface
 
 # 🕹️conclusion
 
-°this project is used for pyhon begginers for easily understandings python logic and conttol statements.
+• this project is used for pyhon begginers for easily understandings python logic and conttol statements.
 
